@@ -29,7 +29,7 @@
 [<img align="left" alt="Facebook" width=22px src="https://drive.google.com/uc?id=1qfWQlPxifueAzv1dG0FzjFV5h89sI0vc">](https://www.facebook.com/profile.php?id=100074839893743)
 [<img align="left" alt="Instagram" width=22px src="https://drive.google.com/uc?id=1L604ILK6tQbnwn6a5EGsBN-t4y1U3XLh">](https://www.instagram.com/abdulkarim_albaik_dev/)
 [<img align="left" alt="Twitter" width=22px src="https://drive.google.com/uc?id=1999r_Hcjzc9CUzAyN9g0ljRDvcxUuD_R">](https://twitter.com/abdalka10233202)
-[<img align="left" alt="LinkedIn" width=22px src="https://drive.google.com/uc?id=1h1gA2f0KaCfG7-rz8vrVq33E1uvy18FC">](https://www.linkedin.com/in/abdulkarim-albaik-b734aa22a224).  
+[<img align="left" alt="LinkedIn" width=22px src="https://drive.google.com/uc?id=1h1gA2f0KaCfG7-rz8vrVq33E1uvy18FC">](https://www.linkedin.com/in/abdulkarim-albaik-b734aa22a/).  
 
 
 ### My Best Flutter Projects: 
