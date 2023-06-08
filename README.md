@@ -2,8 +2,8 @@
 <h1 align="center">🌟 Senior Flutter Developer 🌟</h1>
 
 ### Hey there, I'm  Abdulkarim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- I'm Senior fluter developer, make flutter apps to different platforms: Android, IOS, Web, Windows.  
-- BE - Informatics Engineer, 7 years of coding, have 6 certificates ,developed 11 Flutter projects, 15 Android projects and the most important is i am excited to work with you.
+- I'm Senior Flutter Developer, develop flutter apps to different platforms: Android, IOS, Web, Windows.  
+- BE - Informatics Engineer, 7 years of coding, have 6 certificates ,developed 11 Flutter projects, 15 Android projects. 
 - Interested in programming, I love individual thinking creating solutions And finding creative ways.
 - With 1.5 years of solid experience in flutter framework, i can create complex designs with the latest technologies and architectures.
 - Professional technologies in my apps: Bloc, Isar, ObjectBox, Hive, Dio, Injectable, Firebase, Maps, Export Excels files, Payments, Deferred-Components, In-App purchases, Google mobile ads, Fluent Ui, Lottie, Charts, OneSignal, Unit Testing and more...
